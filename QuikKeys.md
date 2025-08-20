@@ -28,7 +28,7 @@
 | markview | 切换模式 | 空格 → m → d |
 |         |Nvim-Tree       |              |
 |打开文件树|              |   空格+n+e   |
-|Telscope  |              |               |
+|Telscope  |              | 空格 +t+s      |
 |"surround"  |包裹单词加引号等|ysiw"",ysiw<等|
 |在V下选中|shift +s|也可以包裹，更通用|
 |"surround"|cs修改|ds 删除|
