@@ -15,4 +15,4 @@ require("myset.transparent")
 --   hi NvimTreeNormalNC guibg=NONE ctermbg=NONE
 --   hi NvimTreeEndOfBuffer guibg=NONE ctermbg=NONE
 -- ]]
-
+-- print("hello world")
